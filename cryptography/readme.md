@@ -8,3 +8,4 @@ bn_euclid_example.c : euclidean algorithm sample
 
 xeuclid.c : extended euclidean algorithm
 
+exp.c : exponential with modulus
