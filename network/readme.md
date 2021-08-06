@@ -6,3 +6,7 @@ pcap-test : 패킷 잡기
 
 send-arp : sender(infection)에게 request 후 reply 시 victim (gateway)의 ip로 reply하여 sender의 네트워크 마비
 
+arp-spoof : arp spoofing 실습
+
+suricata : suricata 이용하여 검색 로그 확인
+
